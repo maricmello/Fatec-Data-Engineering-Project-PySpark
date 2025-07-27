@@ -40,7 +40,7 @@ Power BI visuals include:
 - Time series trends
 - Monthly performance with translated month names
 
-![Dashboard Projeto Integrador](Dashboard Projeto Integrador.png)
+![Dashboard Projeto Integrador](Dashboard_Projeto_Integrador.png)
 
 ### Example DAX Measures:
 ```DAX
