@@ -40,8 +40,6 @@ Power BI visuals include:
 - Time series trends
 - Monthly performance with translated month names
 
-![Dashboard Projeto Integrador](/Dashboard/Dashboard.png)
-
 ### Example DAX Measures:
 ```DAX
 Total Sales = SUM('fato_vendas'[valor_compra])
